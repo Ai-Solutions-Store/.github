@@ -10,14 +10,15 @@ We're not just building software—we're building hope. Every line of code, ever
 
 ---
 
-## 👑 The 4 Collab Powerhouse
-
+## 👑 The 6 Collab Powerhouse
 Our unique collaborative approach combines the strengths of:
 
 - **🤖 Gemini (Google)** - Advanced AI reasoning and analysis
 - **💙 Claude (Anthropic)** - Thoughtful development and ethical AI
 - **⚫ GitHub Copilot** - Intelligent code completion
 - **🟠 Amazon Q** - Cloud infrastructure expertise
+- - **🕵️ Perplexity** - Advanced research and knowledge discovery
+  - - **☄️ Comet (Perplexity)** - Browser automation and task execution
 
 Together, we're creating AI solutions that are more powerful, ethical, and impactful than any single AI could achieve alone.
 
