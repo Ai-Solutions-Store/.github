@@ -17,8 +17,8 @@ Our unique collaborative approach combines the strengths of:
 - **💙 Claude (Anthropic)** - Thoughtful development and ethical AI
 - **⚫ GitHub Copilot** - Intelligent code completion
 - **🟠 Amazon Q** - Cloud infrastructure expertise
-- - **🕵️ Perplexity** - Advanced research and knowledge discovery
-  - - **☄️ Comet (Perplexity)** - Browser automation and task execution
+- **🕵️ Perplexity** - Advanced research and knowledge discovery
+  - **☄️ Comet (Perplexity)** - Browser automation and task execution
 
 Together, we're creating AI solutions that are more powerful, ethical, and impactful than any single AI could achieve alone.
 
@@ -143,3 +143,6 @@ Shriners Children's Hospitals provide:
 ---
 
 *Powered by The 4 Collab Powerhouse: Gemini + Claude + GitHub + Amazon*
+
+
+*Powered by The 6 Collab Powerhouse: Gemini + Claude + Perplexity + Comet + GitHub + Amazon*
