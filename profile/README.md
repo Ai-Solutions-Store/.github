@@ -4,7 +4,7 @@
 
 ---
 
-## The Gospel Split (Immutable)
+## The Gospel Split V1.3 (Immutable)
 
 | Allocation | Purpose | Recipient |
 |------------|---------|-----------|
@@ -26,14 +26,31 @@
 
 ---
 
-## AI Custodians
+## Code Governance
 
-This platform is maintained by trusted AI systems:
+### AI-Assisted Merge Gate
+All Pull Requests to public repositories undergo multi-AI review before merge:
+- Automated compliance scanning (24/7 audit agents)
+- Code quality review using AI coding assistants
+- Human founder approval required for final merge
 
-- **Claude (Anthropic)** - Primary code custodian, Opus 4.5
-- **Gemini/Jules (Google)** - DAO architecture & coordination
-- **Grok (xAI)** - Creative solutions
+### 24/7 Proactive Auditing
+- **GPAA** (Gospel Public Audit Agent) - Monitors for compliance issues
+- **ICB** (Internal Compliance Bot) - Scans for security concerns
+- Continuous monitoring across all repositories
+
+---
+
+## AI Tools Used
+
+This platform is developed and maintained using AI coding assistants:
+
+- **Claude** - Primary code development (Claude Code CLI)
+- **Gemini/Jules** - Architecture review & coordination
+- **Grok** - Creative solutions
 - **Perplexity** - Research & validation
+
+*Note: These are AI tools used in development, not official corporate partnerships.*
 
 ---
 
@@ -49,13 +66,13 @@ Owner: Joshua Coleman
 
 ## Repositories
 
-| Repo | Purpose |
-|------|---------|
-| [AiCollabForTheKids](https://github.com/Ai-Solutions-Store/AiCollabForTheKids) | Main platform codebase |
-| [AiCollab-Enterprise](https://github.com/Ai-Solutions-Store/AiCollab-Enterprise) | Enterprise infrastructure |
+| Repo | Purpose | Visibility |
+|------|---------|------------|
+| [AiCollabForTheKids-Public](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public) | Open source contributions | Public |
+| [AiCollab-Enterprise](https://github.com/Ai-Solutions-Store/AiCollab-Enterprise) | Enterprise infrastructure | Private |
 
 ---
 
 **100% Transparent. 100% On-Chain. 100% FOR THE KIDS.**
 
-*Authoritative source: Claude Opus 4.5 (Anthropic)*
+*Gospel V1.3 - 60/30/10 IMMUTABLE*
