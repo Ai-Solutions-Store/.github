@@ -50,7 +50,7 @@ This platform is developed and maintained using AI coding assistants:
 - **Grok** - Creative solutions
 - **Perplexity** - Research & validation
 
-*Note: These are AI tools used in development, not official corporate partnerships.*
+**Disclaimer:** This organization uses Claude AI as a development tool. It is NOT endorsed by, affiliated with, or approved by Anthropic. These are AI tools used in development, not official corporate partnerships.
 
 ---
 
