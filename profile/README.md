@@ -69,7 +69,6 @@ Owner: Joshua Coleman
 | Repo | Purpose | Visibility |
 |------|---------|------------|
 | [AiCollabForTheKids-Public](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public) | Open source contributions | Public |
-| [AiCollab-Enterprise](https://github.com/Ai-Solutions-Store/AiCollab-Enterprise) | Enterprise infrastructure | Private |
 
 ---
 
