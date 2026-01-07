@@ -1,16 +1,19 @@
 # FOR THE KIDS
 
-**AI-Powered Charitable Platform | 60% to Verified Pediatric Charities**
+**AI-Powered Charitable Platform | Gospel v1.4.1**
 
 ---
 
-## The Gospel Split V1.3 (Immutable)
+## Gospel v1.4.1 - SURVIVAL MODE (Temporary)
 
-| Allocation | Purpose | Recipient |
-|------------|---------|-----------|
-| **60%** | Verified Pediatric Charities | Direct to kids in need |
-| **30%** | Infrastructure | Platform development & operations |
-| **10%** | Founder Operations | Administrative costs |
+| Platform | Split | Status |
+|----------|-------|--------|
+| **AI Solutions Store** | 100% Charity | IMMUTABLE FOREVER |
+| **YouAndINotAI Dating** | 100% Founder | TEMPORARY until bills paid |
+
+**Target:** Valentine's Day 2026 - Dating returns to 60/30/10
+
+> THE DAO IS SACRED. 100% CHARITY ON AI PLATFORMS NEVER CHANGES.
 
 ---
 
@@ -26,31 +29,39 @@
 
 ---
 
-## Code Governance
+## Active Products
 
-### AI-Assisted Merge Gate
-All Pull Requests to public repositories undergo multi-AI review before merge:
-- Automated compliance scanning (24/7 audit agents)
-- Code quality review using AI coding assistants
-- Human founder approval required for final merge
-
-### 24/7 Proactive Auditing
-- **GPAA** (Gospel Public Audit Agent) - Monitors for compliance issues
-- **ICB** (Internal Compliance Bot) - Scans for security concerns
-- Continuous monitoring across all repositories
+| Product | Description | Link |
+|---------|-------------|------|
+| **YouAndINotAI** | Human-verified dating app | [youandinotai.com](https://youandinotai.com) |
+| **AI Solutions Store** | AI tools marketplace (100% charity) | [ai-solutions.store](https://ai-solutions.store) |
+| **Claude Droid** | AI YouTube Shorts generator | $97 |
+| **Income Droid** | Revenue-optimized video automation | $147 |
+| **Marketing Engine** | 23-platform marketing automation | $197 |
+| **Jules AI** | Gemini-powered business AI | $297 |
 
 ---
 
-## AI Tools Used
+## Fleet Status
 
-This platform is developed and maintained using AI coding assistants:
+| Node | Role | Platforms |
+|------|------|-----------|
+| **T5500** | Command Center + Tunnel | Email, Press, Blog |
+| **Sabertooth** | Social East Coast | Twitter, Reddit, Discord |
+| **9020** | Social West Coast | Facebook, Instagram, TikTok |
 
-- **Claude** - Primary code development (Claude Code CLI)
-- **Gemini/Jules** - Architecture review & coordination
-- **Grok** - Creative solutions
-- **Perplexity** - Research & validation
+**Command Center:** http://192.168.0.101:1004
 
-**Disclaimer:** This organization uses Claude AI as a development tool. It is NOT endorsed by, affiliated with, or approved by Anthropic. These are AI tools used in development, not official corporate partnerships.
+---
+
+## Code Governance
+
+### AI-Assisted Development
+- **Claude Opus 4.5** - Primary development (Claude Code CLI)
+- **Perplexity** - Automation & research
+- **Multi-agent fleet** - 24/7 marketing automation
+
+**Disclaimer:** This organization uses Claude AI as a development tool. It is NOT endorsed by, affiliated with, or approved by Anthropic.
 
 ---
 
@@ -74,4 +85,4 @@ Owner: Joshua Coleman
 
 **100% Transparent. 100% On-Chain. 100% FOR THE KIDS.**
 
-*Gospel V1.3 - 60/30/10 IMMUTABLE*
+*Gospel v1.4.1 - Valentine's Day 2026*
