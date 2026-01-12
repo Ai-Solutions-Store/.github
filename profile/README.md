@@ -6,7 +6,7 @@
 
 ## Our Mission: FOR THE KIDS
 
-AI Solutions Store is a social enterprise that develops AI-powered software products with a core commitment: **60% of all platform revenue goes directly to verified pediatric charities**.
+AI Solutions Store is a social enterprise that develops AI-powered software products with a core commitment: **100% of all platform revenue goes directly to verified pediatric charities**.
 
 We believe technology should serve humanity's most vulnerable. Every purchase, every subscription, every contribution makes a direct impact on children's lives.
 
@@ -17,7 +17,7 @@ We believe technology should serve humanity's most vulnerable. Every purchase, e
 | Platform | Description | Link |
 |----------|-------------|------|
 | **AI Solutions Store** | AI tools marketplace with charitable giving built-in | [ai-solutions.store](https://ai-solutions.store) |
-| **YouAndINotAI** | Human-verified dating platform emphasizing authentic connections | [youandinotai.com](https://youandinotai.com) |
+| **YouAndINotAI** | Human-verified dating platform emphasizing authentic connections | [youandinotai.com](https://youandinotai.online) |
 
 ---
 
@@ -63,7 +63,6 @@ Florida Registered | EIN: 33-4655313
 ## Get Involved
 
 - Browse our products: [ai-solutions.store](https://ai-solutions.store)
-- Connect authentically: [youandinotai.com](https://youandinotai.com)
 - View our code: [Public Repository](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public)
 
 ---
