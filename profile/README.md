@@ -1,6 +1,6 @@
 # AI Solutions Store
 
-**Social Enterprise AI Platform | 60% to Verified Pediatric Charities**
+**Social Enterprise AI Platform | 100% to Verified Pediatric Charities**
 
 ---
 
