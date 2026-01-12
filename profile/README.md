@@ -25,10 +25,7 @@ We believe technology should serve humanity's most vulnerable. Every purchase, e
 
 | Allocation | Purpose |
 |------------|---------|
-| **60%** | Verified Pediatric Charities |
-| **30%** | Platform Development & Infrastructure |
-| **10%** | Operations & Maintenance |
-
+| **100%** | Verified Pediatric Charities |
 All charitable distributions are transparent and verifiable on-chain via Base Mainnet.
 
 ---
