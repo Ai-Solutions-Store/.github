@@ -17,7 +17,7 @@ We believe technology should serve humanity's most vulnerable. Every purchase, e
 | Platform | Description | Link |
 |----------|-------------|------|
 | **AI Solutions Store** | AI tools marketplace with charitable giving built-in | [ai-solutions.store](https://ai-solutions.store) |
-| **YouAndINotAI** | Human-verified dating platform emphasizing authentic connections | [youandinotai.com](https://youandinotai.online) |
+| **YouAndINotAI** | Human-verified dating platform emphasizing authentic connections | [youandinotai.online](https://youandinotai.online) |
 
 ---
 
