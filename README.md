@@ -1,21 +1,20 @@
-# Ai-Solutions-Store Organization Profile
+# .github
 
-**Social Enterprise AI Platform | 100% to Verified Pediatric Charities**
+Organization profile and community health files for [Ai-Solutions-Store](https://github.com/Ai-Solutions-Store).
 
-This repository contains the organization profile configuration for [Ai-Solutions-Store](https://github.com/Ai-Solutions-Store).
+## Contents
 
-## About
+- `profile/README.md` — Organization profile displayed on the GitHub org page
 
-AI Solutions Store is a social enterprise dedicated to developing AI-powered software products with a core charitable mission.
+## Mission
 
-## Live Platforms
+**FOR THE KIDS** — 100% of platform revenue to verified pediatric charities.
 
-- [ai-solutions.store](https://ai-solutions.store) - AI tools marketplace
+## Links
 
-## Acknowledgments
-
-We leverage modern AI development tools to build our products. This organization is an independent entity and is not affiliated with, endorsed by, or sponsored by any AI provider.
+- [ai-solutions.store](https://ai-solutions.store) — AI Tools Marketplace
+- [aidoesitall.website](https://aidoesitall.website) — Dashboard
 
 ---
 
-**FOR THE KIDS - Building AI for Good**
+*Gospel V1.4.1 SURVIVAL MODE*
