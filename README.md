@@ -1,6 +1,6 @@
 # Ai-Solutions-Store Organization Profile
 
-**Social Enterprise AI Platform | 60% to Verified Pediatric Charities**
+**Social Enterprise AI Platform | 100% to Verified Pediatric Charities**
 
 This repository contains the organization profile configuration for [Ai-Solutions-Store](https://github.com/Ai-Solutions-Store).
 
@@ -11,7 +11,6 @@ AI Solutions Store is a social enterprise dedicated to developing AI-powered sof
 ## Live Platforms
 
 - [ai-solutions.store](https://ai-solutions.store) - AI tools marketplace
-- [youandinotai.com](https://youandinotai.com) - Human-verified dating platform
 
 ## Acknowledgments
 
